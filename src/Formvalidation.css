@@ -1,0 +1,29 @@
+.signupform{
+    text-align: center;
+    margin-top: 70px;
+    border: 2px black;
+    max-width: 30%;
+    margin-left:350px;
+
+}
+.pass{
+    margin:8px;
+}
+.firstname{
+    color: red;
+}
+.lastname{
+        color: red;
+}
+.email {
+    color: red;
+}
+.password{
+        color: red;
+}
+.reconfirm{
+            color: red;
+}
+.invalid{
+    border: red 1px;
+}
